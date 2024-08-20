@@ -34,5 +34,5 @@ Your final submission should be a CSV file containing the test IDs and your mode
 ## Evaluation
 Submissions will be evaluated based on the Mean Absolute Error (MAE) between the predicted values and the actual values.
 
-## The project can be found here : [link](https://www.kaggle.com/competitions/blueberry-yield-zindua-ml-week-2-challenge)
+## The project can be found here : [link](https://www.kaggle.com/t/e21666c9c8934f1b89f598f5868a2878)
 Good luck, and happy modeling!
